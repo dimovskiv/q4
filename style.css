@@ -397,7 +397,7 @@ body, html {
 
 .termsC .item ul {
   text-align: left;
-  color: whitesmoke;
+  color: black;
   opacity: 0.8;
   padding: 2rem;
 }
@@ -405,16 +405,16 @@ body, html {
 .termsC .item p {
   text-align: left;
   opacity: 0.8;
-  color: whitesmoke;
+  color: black;
 }
 
 .termsC .item h1 {
   opacity: 0.8;
-  color: whitesmoke;
+  color: black;
 }
 
 .termsC .item hr {
-  color: whitesmoke;
+  color: black;
 }
 
 .termsC .item li {
